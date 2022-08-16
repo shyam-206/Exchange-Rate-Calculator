@@ -4,7 +4,10 @@ This is simple currency rate calculator made with used API and HTML,CSS and Java
 
 API link : https://open.exchangerate-api.com/v6/latest
 
-Tech Stack : 
-  > HTML
-  > CSS 
-  > JavaScript
+Live-Demo : 
+## Tech Stack : 
+   <ul>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>JavaScript</li>
+  </ul>
